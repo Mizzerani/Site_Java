@@ -1,3 +1,0 @@
-7800|Ryzen 7 7800X3D|2650|0|Processador AMD Ryzen 7 7800X3D, 5.0GHz Max Turbo, Cache 104MB, AM5, 8 Núcleos, Vídeo Integrado
-7950|Ryzen 9 7950X|3549|0|Processador AMD Ryzen 9 7950X, 5.7GHz Max Turbo, Cache 80MB, AM5, 16 Núcleos, Vídeo Integrado
-14900|i9 14900KF|4000|0|Processador Intel Core i9-14900KF, 14ª Geração, 6GHz Max Turbo, Cache 36MB, 24 Núcleos, 32 Threads, LGA1700
