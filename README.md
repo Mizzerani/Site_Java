@@ -52,11 +52,11 @@ dependências:
 
 ## Telas Solicitadas:
 <h3 align="center">Tela de Login</h3>
-<img alt="Login" width="651px" height="419px" src="https://github.com/Mizzerani/Site_Java/blob/main/Imagens/Captura%20de%20Tela%20(172).png?raw=true"/>
+<img alt="Login" width="651px" height="419px" src="https://github.com/Mizzerani/Site_Java/blob/main/Imagens/Login.png?raw=true"/>
 <h3 align="center">Vitrine de Compras</h3>
-<img alt="Vitrine" width="1681px" height="911px" src="https://github.com/Mizzerani/Site_Java/blob/main/Imagens/Captura%20de%20Tela%20(173).png?raw=true"/>
+<img alt="Vitrine" width="1681px" height="911px" src="https://github.com/Mizzerani/Site_Java/blob/main/Imagens/Vitrine.png?raw=true"/>
 <h3 align="center">Carrinho</h3>
-<img alt="Carrinho" width="621px" height="294px" src="https://github.com/Mizzerani/Site_Java/blob/main/Imagens/Captura%20de%20Tela%20(174).png?raw=true"/>
+<img alt="Carrinho" width="621px" height="294px" src="https://github.com/Mizzerani/Site_Java/blob/main/Imagens/Carrinho.png?raw=true"/>
 <h3 align="center">Pagamento</h3>
-<img alt="Pagamento" width="380px" height="320px" src="https://github.com/Mizzerani/Site_Java/blob/main/Imagens/Captura%20de%20Tela%20(175).png?raw=true"/>
+<img alt="Pagamento" width="380px" height="320px" src="https://github.com/Mizzerani/Site_Java/blob/main/Imagens/Pagamento.png?raw=true"/>
 </div>
