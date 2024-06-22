@@ -1,9 +1,14 @@
 <h1 align="center">Linguagens de Programação</h1>
 
-<img align="center" alt="Header" src="https://github.com/Mizzerani/Mizzerani/assets/164261517/d03bf22b-d1a1-47aa-9d77-af2dc6b5c9e8"/>
+<div align="center">
+<img src="https://github.com/Mizzerani/Site_Java/blob/main/Imagens/Kaboomga!Hardware.png?raw=true"/>
+</div>
+    
 <h2 align="center">Site em Java</h2> 
 
+<div align="justify">
 Esse projeto consiste na criação de um site de vendas de hardware, utilizando a linguagem de programação em Java. Ademais, O site é capaz de adicionar os modelos de hardware que o cliente selecionou e colocá-los em um carrinho, somar os valores e imprimir o total da compra em um campo, na tela de carrinho. E, por fim, o cliente selecionar uma forma de pagamento e finalizar a compra. O Kaboomga está na sua versão 1.0 e ainda depende de adição de mais features para se tornar completamente usável.
+</div>
 
 ## Requisitos
 
@@ -47,7 +52,7 @@ dependências:
 
 ## Vitrine de Compras
 <div>
-<img alt="app" width="275px" height="500px" src="https://github.com/joaopauloaramuni/flutter/blob/main/prj_openweather_flutter/img/a.png"/>
-<img alt="app" width="250px" height="500px" src="https://github.com/joaopauloaramuni/flutter/blob/main/prj_openweather_flutter/img/b.png"/>
-<img alt="app" width="250px" height="500px" src="https://github.com/joaopauloaramuni/flutter/blob/main/prj_openweather_flutter/img/c.png"/>
+<img alt="app" width="275px" height="500px" src=""/>
+<img alt="app" width="250px" height="500px" src=""/>
+<img alt="app" width="250px" height="500px" src=""/>
 </div>
