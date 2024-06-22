@@ -49,7 +49,13 @@ dependências:
 
 ## Funcionamento:
 
+<p> 
+<p>Abaixo, está a demosntração do site em funcionamento.
+<p> 
+  
 
+<p> Nesse vídeo é mostrado como o site está funcionando.
+    
 ## Telas Solicitadas:
 <h3 align="center">Tela de Login</h3>
 <img alt="Login" width="651px" height="419px" src="https://github.com/Mizzerani/Site_Java/blob/main/Imagens/Login.png?raw=true"/>
