@@ -70,6 +70,25 @@ https://github.com/Mizzerani/Site_Java/assets/164261517/eb2aa568-8acd-43c2-9473-
 ## Contribuições
 Contribuições são sempre bem-vindas! Se você deseja aprimorar esse programa, sinta-se à vontade para criar um fork deste repositório e enviar um pull request.
 
-## Autor
-Feito por Matheus Carneiro.
+-----
+
+<div>
+<table align="center">
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+<tr>
+<td>
+<a href="https://github.com/Mizzerani" target="_blank"><img src="https://github.com/Mizzerani/Mizzerani/blob/main/img/Rito%20do%20Fluxo%20Eterno.png?raw=true" width="100px" height="100px"/></a>
+</td>
+<td>
+| Créditos: <a href="https://github.com/Mizzerani" target="_blank">© 2024 Mizzerani</a><br />
+| Última atualização: 22/06/2024
+</td>
+</tr>
+<tr>
+ <td align="center" colspan="2"></td>
+</tr> 
+</table>
+</div>
 
