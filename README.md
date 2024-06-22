@@ -50,9 +50,10 @@ dependências:
 ## Funcionamento:
 
 
-## Vitrine de Compras
+## Telas Solicitadas
 <div>
 <img alt="app" width="275px" height="500px" src=""/>
 <img alt="app" width="250px" height="500px" src=""/>
 <img alt="app" width="250px" height="500px" src=""/>
+<img alt="app" width="275px" height="500px" src=""/>
 </div>
