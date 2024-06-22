@@ -66,3 +66,10 @@ https://github.com/Mizzerani/Site_Java/assets/164261517/eb2aa568-8acd-43c2-9473-
 <h3 align="center">Pagamento</h3>
 <img alt="Pagamento" width="380px" height="320px" src="https://github.com/Mizzerani/Site_Java/blob/main/Imagens/Pagamento.png?raw=true"/>
 </div>
+
+## Contribuições
+Contribuições são sempre bem-vindas! Se você deseja aprimorar esse programa, sinta-se à vontade para criar um fork deste repositório e enviar um pull request.
+
+## Autor
+Feito por Matheus Carneiro.
+
