@@ -1,0 +1,24 @@
+Professor, boa noite tudo bem?
+Então, eu vou listar o que está ocorrendo com o meu código:
+
+1 - Em "frmAjuda, frmCarrinho e frmSobre" o código que eu utilizei
+para chamar cada tela não funciona (frmAjuda: linha 95,
+frmCarrinho: linhas 100 e 109 e frmSobre: linha 81)
+o sistema me recomendou alterara forma de como funciona e, 
+as indicações de erro sairam do "frmPrincipal"
+e foram para dentro do método "main" das telas que são posteriores as 
+da "frmPrincipal".
+
+2 - Esse não é um erro, mas eu queria ver se é possível você me ajudar a linkar
+os botões de "comprar" para cada produto, a fim de preencer a lista de compras
+no "frmCarrinho", soma-las e imprimí-las no campo que eu deixei predestinado 
+nessa tela.
+Obs: Eu, em "Classes.Dados" adicionei uma string, identificando cada produto 
+que eu coloquei na vitrine (inclusive, eu criei dois perfis para login, nos 
+quais estão na mesma classe, tanto o meu perfil quanto o seu, nomeado
+"Aramuni" a senha para logar está no fim, mas para lhe facilitar, a senha é
+"1234").
+
+Desde já agradeço o seu esforço para me ajudar!
+Foi um prazer ter aula contigo :)
+
