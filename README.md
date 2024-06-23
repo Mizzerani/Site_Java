@@ -83,7 +83,7 @@ Contribuições são sempre bem-vindas! Se você deseja aprimorar esse programa,
 </td>
 <td>
 | Créditos: <a href="https://github.com/Mizzerani" target="_blank">© 2024 Mizzerani</a><br />
-| Última atualização: 22/06/2024
+| Última atualização: 23/06/2024
 </td>
 </tr>
 <tr>
